@@ -1,0 +1,6 @@
+E:\visuale studio codes\first varibale\first varibale\bin\Debug\first varibale.exe.config
+E:\visuale studio codes\first varibale\first varibale\obj\Debug\first varibale.csprojResolveAssemblyReference.cache
+E:\visuale studio codes\first varibale\first varibale\bin\Debug\first varibale.exe
+E:\visuale studio codes\first varibale\first varibale\bin\Debug\first varibale.pdb
+E:\visuale studio codes\first varibale\first varibale\obj\Debug\first varibale.exe
+E:\visuale studio codes\first varibale\first varibale\obj\Debug\first varibale.pdb
